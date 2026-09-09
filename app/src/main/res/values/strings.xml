@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SonicCast</string>
+    <string name="mic_permission_rationale">SonicCast uses your device\'s microphone exclusively to demodulate near-ultrasonic and audible sound waves from nearby senders. No audio is ever recorded to disk or transmitted to any server. This app operates 100% offline without internet.</string>
+    <string name="mic_permission_required">Microphone Permission Required</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="open_settings">Open Settings</string>
+</resources>
